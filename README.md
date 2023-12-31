@@ -171,10 +171,35 @@ https://www.datarobot.com/
 
 # 20 Types of MLOPS Tools List 
 
-## CICD for Machine Learning ##
-## Cron Job Monitoring, healthChecksIO ##
-## Data Exploration - Apache Zeppelni, Bamboolib, Google Colab ##
-## 
+## 1. CICD for Machine Learning ##
+## 2. Cron Job Monitoring, healthChecksIO ##
+## 3. Data Exploration - Apache Zeppelni, Bamboolib, Google Colab ##
+## 4. Jupyter Notebook , Hupyter Lab ##
+## 5. Data Management - DVC Arkito Blazing SQL, Delta Lake, Dolt, DVC, GitLFS ##
+## 6. Data Processing - Airflow, Hadoop.
+## 7. Data Validation - Cerberms, Great Expectations.
+## 8. Fetaure Engineering - Feature Tools - TS Fresh ## 
+## 9. Data Visualization - Superset, Tableau, Facet, Dash ##
+## 10. Feature Store - ButterFree, ByteHub, Feast, Tecton ##
+## 11. Hyperparameter Tunning - Hyperas, Hyperopt, Kabit, KerasTurner, Optuna. ##
+## 12. Machine Learning Platform - Sagemaker, Kubflow, H2O, MLReef, Algorithms, DataRobot, DAGsHub. ##
+## 13. Model Interprestablity - Alibi, Cptum, ELi5, InterpretML, Weight & Biases ##
+## 14. LIME, LUCID, SAGE, SHAP, Skaster. ##
+## 15. Model Lifecycle - MLFlow, Netpune AI, Comet, Deepshake, Model DB, Weight & Baises ##
+## 16. Model Serving - BentoML, Tensorflow Serving, KFServing, SeldonCore, Streamlit,TorchService, Gradio, Graphippie, Hydrosphereout. ##
+## 17. Model Testing & Validation - Deepchecks ##
+## 18. Optimzation Tools - Dask, Deepspeed, Horovod, Tpot, Ray, Rapids.
+## 19. Simplication Tools for ML - PyCaret, Herninioe, Hydra, Koalas, TuriCreate(apple), Train Generator. ##
+## 20. Visual Analysis and Debugugging - Aporia, Evidently AI, Yellowricks, Netron, Fiddler, Manifold. ##
+## 21. WorkFlow Tools - MLRun, Flyte, MetaFlow, Ploomber, ZenML, Kedro. ##
+
+# Fraud Detection -
+
+1. Anamoly Detection - Isolation Forest, DBScan, Statistical Models - Bayseian Models.
+2. Novelty in Fraud Detection.
+3. Reinforecment Learning in Fraud Detection.
+
+## qLib by Microsoft - is a nice  
 
 
 
