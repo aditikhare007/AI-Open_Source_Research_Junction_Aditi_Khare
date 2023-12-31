@@ -229,8 +229,17 @@ This stack has end to end ML systems to enable data processing, Model training, 
 
 ## Core ML - CoreML exporter uses coreml tools to perform the conversion from PyTorch or TensorFlow to CoreML. ##
 
-## 
+## KerasTunner API ##
 
+## Hyperparameters - Tuner Class (Subclass) corresponding to different tuning algorithms are called directly by the user to start the search or get the best models. ##
+
+## The Hyper Model subclaases are predefined search spaces for certain model failures like ResNet and XceptionNet. ##
+
+## KerasNLP - Modular building box layers, metrics that NLP engineers can leverages to develop production-grade, state of the art training and inference pipelines for common NLP workflows. ##
+
+## KerasCV - Modular  building blocks layers, metrics, losses, data augumentation that computer vision engineers can leverage to quickly assemble production-grade state o the art pipeline.
+
+## JAX - is a python Framework library offering high performance 
 
 
 
