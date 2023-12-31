@@ -133,6 +133,20 @@ https://arize.com/
 ### Data Robot - One Unified Platform for Generative and Predictive AI ##
 https://www.datarobot.com/
 
+### Galileo - A text-to-UI platform that empowers you to design beyond imagination with speed ###
+
+### Superwise - https://superwise.ai/ ###
+
+### 
+
+
+
+
+
+
+
+
+
 
 
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
