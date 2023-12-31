@@ -130,7 +130,8 @@ Amazon CodeWhisperer generates code suggestions ranging from snippets to full fu
 Monitor, troubleshoot, and evaluate your
 https://arize.com/
 
-### 
+### Data Robot - One Unified Platform for Generative and Predictive AI ##
+https://www.datarobot.com/
 
 
 
