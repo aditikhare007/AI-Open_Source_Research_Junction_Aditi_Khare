@@ -137,7 +137,59 @@ https://www.datarobot.com/
 
 ### Superwise - https://superwise.ai/ ###
 
-### 
+# Computer Vision Libraries # 
+
+1. OpenCV
+2. SimpleCV
+3. TensorFlow
+4. Keras
+5. Matlab
+6. PCL - Point Cloud Library.
+7. DeepFace
+8. NVIDIA CUDA X
+9. NVIDIA Performance Primitives
+10. BoofCV
+11. OpenVIVO
+12. PyTorch
+13. Albumentations
+14. Caffee
+15. Detectorn2
+16. Imtutils
+
+# Top 10 Resources to find Computer Vision AI Models #
+
+## Papers with Code ##
+## ModelZoo.co ##
+## OpenMode Zoo ##
+## TensorFlow Model Garden ##
+## TensorFlow Hub ##
+## Media Pipe ##
+## Awesome Core ML Models ##
+## Jetson Zoo ##
+## Pinto Model Zoo ##
+## ONNX Model Zoo ##
+
+# 20 Types of MLOPS Tools List 
+
+## CICD for Machine Learning ##
+## Cron Job Monitoring, healthChecksIO ##
+## Data Exploration - Apache Zeppelni, Bamboolib, Google Colab ##
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
