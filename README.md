@@ -223,9 +223,13 @@ This stack has end to end ML systems to enable data processing, Model training, 
 4. Vector Space Analysis - Clustering - KMeans, Meanshift, DBScan and Hierarchical Topivc Modelling and Interprestation.
 5. Text Visualization - Vector Space Visualisation - Place on Localization on Maps.
 
-## Skit-ai Released an open-source dataset 
+## Skit-ai Released an open-source dataset for Intent Classification from speech. ##
 
+## CoreML is Apple's softawre library for fast on device model interference with neural networks and other types of ML Models. ##
 
+## Core ML - CoreML exporter uses coreml tools to perform the conversion from PyTorch or TensorFlow to CoreML. ##
+
+## 
 
 
 
