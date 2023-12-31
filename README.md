@@ -199,9 +199,31 @@ https://www.datarobot.com/
 2. Novelty in Fraud Detection.
 3. Reinforecment Learning in Fraud Detection.
 
-## qLib by Microsoft - is a nice  
+## qLib by Microsoft - is a nice tool to experiment with quantitative investment using AI. 
+This stack has end to end ML systems to enable data processing, Model training, trend analysis via different data graphing mechanisms 
+& Model Testing to support all major components on investments - alpha, risk assessment, forecasting pattern analysis, portfolio optimzation etc.
 
+## Diffusers - Fully Open-Source Stable Diffusion was released, making image generation more accessible.
 
+## Edge AI - MLT (ML Tokyo) Group on Edge AI.
+
+## BLOOM - Text Generation Capabilities of Boom ## 
+
+## Mito - An International Spreadsheet inside python that write codes. Mito is an open-source python package that allows you to call an interactive spreadsheet into your environment. ##
+
+## TextHero - is a python toolkit to work with text data based datasets. ##
+
+## TextHero - is very simple to learn and designed is to used on top of Pandas. ##
+
+## TextHero Offers the Following ##
+
+1. Preprocess text data it offers out of the box solutions built it also flexible  for custom solutions.
+2. NLP Keyphrases and keyword extraction and named entity recognition.
+3. Text Representation - TF-IDF term frequently and custom word embeddings.
+4. Vector Space Analysis - Clustering - KMeans, Meanshift, DBScan and Hierarchical Topivc Modelling and Interprestation.
+5. Text Visualization - Vector Space Visualisation - Place on Localization on Maps.
+
+## Skit-ai Released an open-source dataset 
 
 
 
