@@ -239,27 +239,71 @@ This stack has end to end ML systems to enable data processing, Model training, 
 
 ## KerasCV - Modular  building blocks layers, metrics, losses, data augumentation that computer vision engineers can leverage to quickly assemble production-grade state o the art pipeline.
 
-## JAX - is a python Framework library offering high performance 
+## JAX - is a python Framework library offering high performance ##
 
+## Stable Diffusion - Stable Diffusion is a text to image diffusion model. ##
 
+## You.com - is a developrer search engine to find code. ##
 
+## Top Explainable AI - (XAI) ##
 
+1. SHAP
+2. LIME
+3. SHAPASH
+4. ELI5
+5. InterpretML
+6. OMnixAI
 
+## Model Probability Direciation ## 
 
+## Discreteise (bin) the probablities that our machine learning outputs. ##
 
+## MLFlow Pipeline is a really cool addition to MLFlow, letting terms are opinionated pipeline templates to quickly get new ML projects. ##
 
+## Autotrain - Hugging Face - Create powerful AI Models without code - A new way to automatically train, evaluate & deploy state of the art machine learning models. ##
 
+## Document AI - Fine Tunining Donut for document parsing using Hugging Face Transformers - Donut is a new OCR Framework. ##
 
+## Flux - Open and extensible continous delivery solutions for Kubernetes. Powdered by gitops toolkit. ##
 
+## NeatText is a library to clean text data. Preprocessing Tweets with NaetTexts Pipelines. ##
 
+## Time Series Forecasting doumentation of tsfresh - is a python package it automatically calcualtes a large number of times series charachteristics. ##
 
+## Daft is a python dataframe library for unstructured data and Machine Learning worksloads. Meaning that a table can contain any kind of python object which can be processed by any package. ## 
 
+## Raster4ML - Provides easy to use functions that can automatically calculate features. ##
 
+## Lens Deskstop - Open Lens Kubernetes tools to supercharge your kubernetes workflow ##
 
+1. Minikube
+2. Kubebox
+3. Kops (K) Clusters
+4. Kube-burner
+5. Kube-Hunter
+6. K9S.
+7. K3S
+8. Helm
+9. Nacos
+10. Kaniko
+11. Kube-money.
+12. Teleport
+13. Kubespray
+14. kubebench
+15. Project Quay
+16. Kubetail
+17. Kube-state-metrics.
 
+## Chatdoctor - A Medical Chat Medical Fine tunning on LLaMA model using Domain Knowledge. ##
 
+## LLM Tutorial ## 
 
-
+## 1. Freecodecamp - ChatGPT. ##
+## 2. Fast.ai - Stable Diffusion ##
+## 3. Chip Huyen's Blog on LLMOPS. ##
+## 4. Hugging Face Transformers ##
+## 5. Databricks Dolly 2.0 ## 
+## 6. Microsoft Azure - Well Architecture Framework ##
 
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
