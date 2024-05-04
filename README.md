@@ -1,4 +1,4 @@
-# Aditi_Open_Source_AI_Libraries_Portfolio
+# AI Open_Source_AI_Libraries_Collection
 
 ## Greetings AI Community 👋 About me 
 
