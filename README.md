@@ -1,4 +1,4 @@
-## AI Open_Source_Research_Junction ##
+## Aditi @ AI Open_Source_Research_Junction ##
 
 ## Greetings AI Community 👋 About me 
 
