@@ -1,8 +1,8 @@
-# AI Open_Source_AI_Libraries_Collection
+## AI Open_Source_Research_Junction ##
 
 ## Greetings AI Community 👋 About me 
 
-** AWS & AI Research Specialist-Principal Applied AI Product Engineer [Product-Owner] & Enterprise Architect @PepsiCo | IIM-A | Community Member @Landing.AI | AI Research Specialist [Portfolio] | Author | Quantum AI | Mojo | Next JS | 7+ Years of Experience in Fortune 50 Product Companies | **
+** AWS & AI Research Scientist-Principal Applied AI Product Engineer [Product-Owner] & Enterprise Architect @PepsiCo | IIM-A | Community Member @Landing.AI | AI Research Specialist [Portfolio] | Author | Quantum AI | Mojo | Next JS | 7+ Years of Experience in Fortune 50 Product Companies | **
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](<https://twitter.com/AditiKh32506701/>)
@@ -11,94 +11,37 @@
 
 ** Global Top AI Community Member @Landing.AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @humaneai @H2o.ai Generative AI, @Modular & @Cohere AI @hugging Face Research Papers Group @Papers with Code @DAIR.AI ** ** Completed 90+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
 
-## ** Aditi_Open_Source_AI_Libraries_Portfolio ** ##
+## ** Aditi_Khare_AI_Open_Source_Research_Junction ** ##
 
 <a href="https://github.com/aditikhare007/Aditi_Open_Source_AI_Libraries_Portfolio" class="button icon search"> ** Aditi Open-Source AI Libraries Portfolio** </a> 
 
-## AWS Quantum AI Research Scientist - Quantum AI ##
+## Open Source AI Research Scientist ##
 
-|      **AWS Quantum AI CATEGORY**    |     **AWS SERVICES SUMMARIES**     |    **RESOURCE LINKS**   |    
-| --------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- | 
-| 1. **Quantum technologies - Amazon Bracket** | **Amazon Braket is a fully managed quantum computing service that helps researchers and developers get started with the technology to accelerate research and discovery. Amazon Braket provides a development environment for you to explore and build quantum algorithms, test them on quantum circuit simulators, and run them on different quantum hardware technologies.Quantum computing has the potential to solve computational problems that are beyond the reach of classical computers by harnessing the laws of quantum mechanics to process information in new ways. This approach to computing could transform areas such as chemical engineering, material science, drug discovery, financial portfolio optimization, and machine learning. But defining those problems and programming quantum computers to solve them requires new skills, which are difficult to acquire without easy access to quantum computing hardware.Amazon Braket overcomes these challenges so you can explore quantum computing. With Amazon Braket, you can design and build your own quantum algorithms from scratch or choose from a set of pre-built algorithms. Once you have built your algorithm, Amazon Braket provides a choice of simulators to test, troubleshoot and run your algorithms. When you are ready, you can run your algorithm on your choice of different quantum computers, and gate-based computers from Rigetti and IonQ. With Amazon Braket, you can now evaluate the potential of quantum computing for your organization, and build expertise.** |[Amazon Docs](https://aws.amazon.com/braket/) |  
+|      **OPEN-SOURCE-AI**    |     **OPEN-SOURCE-AI-SUMMARIES**     |    **RESOURCE LINKS**   |    **OPEN-SOURCE-AI-CATEGORY** | 
+| --------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- | --------------------------------------------------------------------- | 
+| 1. **Pandas AI-cONVERSIONAL AI ** | ** Pandas Conversional AI Library.** |[Github](https://github.com/gventuri/pandas-ai/) |  COVERSIONAL AI | 
+| 2. **NannyML ** | ** Post Production Deployment NannyML.** |[Github](https://github.com/NannyML/nannyml/) |  PRODUCTION GRADE MACHINE LEARNING | 
+| 3. **YOLOv5 in PyTorch  ** | ** YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite.** |[Github](https://github.com/ultralytics/yolov5/) |  COMPUTER VISION | 
+| 4. **ModAL ** | ** modAL is an active learning framework for Python3, designed with modularity, flexibility and extensibility in mind. Built on top of scikit-learn, it allows you to rapidly create active learning workflows with nearly complete freedom. What is more, you can easily replace parts with your custom built solutions, allowing you to design novel algorithms with ease.** |[Github](https://github.com/modAL-python/modAL/) |  PYTHON | 
+| 5. **Interpret ML ** | ** InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems. InterpretML helps you understand your model's global behavior, or understand the reasons behind individual predictions..** |[Github](https://github.com/interpretml/interpret/) | Interpretable Machine Learning | 
+| 6. **PiML ** | ** PiML is a new Python toolbox for interpretable machine learning model development and validation. Through low-code interface and high-code APIs, PiML supports a growing list of inherently interpretable ML models.** |[Github](https://github.com/SelfExplainML/PiML-Toolbox/) |  MACHINE LEARNING | 
+| 7. **Flyle Kubernetes ** | ** This guide provides an overview of setting up the Kubernetes Operator backend plugin in your Flyte deployment.** |[Github](https://docs.flyte.org/en/latest/deployment/plugins/k8s/index.html/) |  KUBERNETES-PRODUCTION-GRADE DEPLOYMENTS | 
+| 8. **RunML ** | ** Demystifying MLOps and DataOps with RunML
+As MLOps becomes widespread across the globe due to its game-changing features, businesses are struggling to overcome some of the issues such as-One platform for different data/model pipeline,Build scalable and optimized workflows,Baked-in governance and security,Reducing cost to maintain multiple tools,RunML enables companies to healthify MLOps and DataOps through consistent monitoring and providing insightful analytics..** |[Github](https://runml.ai/) |  MODEL PIPELINES | 
+| 9. **BentoML - Unified AI Application Framework ** | ** Unified AI Application Framework
+With BentoML, you can easily build AI products with any pre-trained models, ship to production in minutes, and scale with confidence.** |[Github](https://www.bentoml.com/) |  MODEL PIPELINES | 
+| 10. **Docker Swarm ** | ** Swarm mode is an advanced feature for managing a cluster of Docker daemons.Use Swarm mode if you intend to use Swarm as a production runtime environment.** |[Github](https://docs.docker.com/engine/swarm/swarm-tutorial/) |  DOCKER-CONTAINERS-PRODUCTION-GRADE DEPLOYMENTS | 
+| 11. **Kedro ** | ** Kedro is an open-source Python framework hosted by the Linux Foundation (LF AI & Data). Kedro uses software engineering best practices to help you build production-ready data science code.** | [Github](https://kedro.org/https://kedro.org/) |  PYTHON | 
+| 12. **Label Studio ** | ** The most flexible data labeling platform to fine-tune LLMs, prepare training data or validate AI models.** |[Github](https://labelstud.io/) |  KUBERNETES-PRODUCTION-GRADE DEPLOYMENTS | 
+| 13. **Imagen ** | ** Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding. Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation. Our key discovery is that generic large language models (e.g. T5), pretrained on text-only corpora, are surprisingly effective at encoding text for image synthesis: increasing the size of the language model in Imagen boosts both sample fidelity and image-text alignment much more than increasing the size of the image diffusion model. Imagen achieves a new state-of-the-art FID score of 7.27 on the COCO dataset, without ever training on COCO, and human raters find Imagen samples to be on par with the COCO data itself in image-text alignment. To assess text-to-image models in greater depth, we introduce DrawBench, a comprehensive and challenging benchmark for text-to-image models. With DrawBench, we compare Imagen with recent methods including VQ-GAN+CLIP, Latent Diffusion Models, and DALL-E 2, and find that human raters prefer Imagen over other models in side-by-side comparisons, both in terms of sample quality and image-text alignment.** |[Github](https://imagen.research.google/) |  GENERATIVE AI [LLMs] | 
+| 14. **Flyle Kubernetes ** | ** This guide provides an overview of setting up the Kubernetes Operator backend plugin in your Flyte deployment.** |[Github](https://docs.flyte.org/en/latest/deployment/plugins/k8s/index.html/) |  KUBERNETES-PRODUCTION-GRADE DEPLOYMENTS | 
+| 15. **Flyle Kubernetes ** | ** This guide provides an overview of setting up the Kubernetes Operator backend plugin in your Flyte deployment.** |[Github](https://docs.flyte.org/en/latest/deployment/plugins/k8s/index.html/) |  KUBERNETES-PRODUCTION-GRADE DEPLOYMENTS | 
 
 
-## ** Pandas AI ** ##
-** Pandas Conversional AI Library ** 
 
-https://github.com/gventuri/pandas-ai
 
-## ** Post Production Deployment NannyML ## 
 
-NannyML - https://www.nannyml.com/
 
-The Open Source library for post deployment data science.
-
-## Computer Vision ## 
-
-## YOLOV5 ## 
-
-YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite 
-https://github.com/ultralytics/yolov5
-
-## ModAL ##
-
-https://github.com/modAL-python/modAL
-
-modAL is an active learning framework for Python3, designed with modularity, flexibility and extensibility in mind. Built on top of scikit-learn, it allows you to rapidly create active learning workflows with nearly complete freedom. What is more, you can easily replace parts with your custom built solutions, allowing you to design novel algorithms with ease.
-
-## Interpretable Machine Learning ## 
-
-### Interpret ML -
-
-InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems. InterpretML helps you understand your model's global behavior, or understand the reasons behind individual predictions.
-
-https://github.com/interpretml/interpret
-https://interpret.ml/
-
-### PiML -
-
-PiML (or π-ML, /ˈpaɪ·ˈem·ˈel/) is a new Python toolbox for interpretable machine learning model development and validation. Through low-code interface and high-code APIs, PiML supports a growing list of inherently interpretable ML models:
-https://github.com/SelfExplainML/PiML-Toolbox.
-
-### Flyle Kubernetes ###
-
-https://docs.flyte.org/en/latest/deployment/plugins/k8s/index.html
-
-Tags: Kubernetes, Integration, Spark, AWS, GCP, Advanced
-
-This guide provides an overview of setting up the Kubernetes Operator backend plugin in your Flyte deployment.
-
-### RunML -
-
-Demystifying MLOps and DataOps with RunML
-As MLOps becomes widespread across the globe due to its game-changing features, businesses are struggling to overcome some of the issues such as:
-
-One platform for different data/model pipeline
-Build scalable and optimized workflows
-Baked-in governance and security
-Reducing cost to maintain multiple tools
-RunML enables companies to healthify MLOps and DataOps through consistent monitoring and providing insightful analytics.
-
-https://runml.ai/
-
-### BentoML - Unified AI Application Framework
-With BentoML, you can easily build AI products with any pre-trained models, ship to production in minutes, and scale with confidence.
-
-https://www.bentoml.com/
-
-### Docker Swarm ###
-
-https://docs.docker.com/engine/swarm/swarm-tutorial/
-
-### Kedro - Kedro is an open-source Python framework hosted by the Linux Foundation (LF AI & Data). Kedro uses software engineering best practices to help you build production-ready data science code.
-
-https://kedro.org/
-
-### Label Studio ### 
-
-The most flexible data labeling platform to fine-tune LLMs, prepare training data or validate AI models.
-
-https://labelstud.io/
 
 ### Imagen - unprecedented photorealism × deep level of language understanding ###
 
