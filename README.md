@@ -15,6 +15,8 @@
 
 <a href="https://github.com/aditikhare007/Aditi_Open_Source_AI_Libraries_Portfolio" class="button icon search"> ** Aditi Open-Source AI Libraries Portfolio** </a> 
 
+### Thank you so much for visting my Profile & Happy Reading ###
+
 ## Open Source AI Research Scientist ##
 
 |      **OPEN-SOURCE-AI**    |     **OPEN-SOURCE-AI-SUMMARIES**     |    **RESOURCE LINKS**   |    **OPEN-SOURCE-AI-CATEGORY** | 
@@ -45,42 +47,21 @@
 |      **LIST OF COMPUTER VISION LIBRARIES **    | 
 |      --------------------------------------    | 
 |       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-|       **  OpenCV  **                           | 
-
-
-
-
-
-
-2. SimpleCV
-3. TensorFlow
-4. Keras
-5. Matlab
-6. PCL - Point Cloud Library.
-7. DeepFace
-8. NVIDIA CUDA X
-9. NVIDIA Performance Primitives
-10. BoofCV
-11. OpenVIVO
-12. PyTorch
-13. Albumentations
-14. Caffee
-15. Detectorn2
-16. Imtutils
+|       **  SimpleCV  **                         | 
+|       **  TensorFlow  **                       | 
+|       **  Keras  **                            | 
+|       **  Matlab  **                           | 
+|       **  PCL - Point Cloud Library  **        | 
+|       **  DeepFace  **                         | 
+|       **  NVIDIA CUDA X  **                    | 
+|       **  NVIDIA Performance Primitives  **    | 
+|       **  BoofCV  **                           | 
+|       **  OpenVIVO  **                         | 
+|       **  PyTorch  **                          | 
+|       **  Albumentations  **                   | 
+|       **  Caffee  **                           | 
+|       **  Detectorn2  **                       | 
+|       **  Imtutils  **                         | 
 
 # Top 10 Resources to find Computer Vision AI Models #
 
@@ -230,8 +211,3 @@ This stack has end to end ML systems to enable data processing, Model training, 
 ## 4. Hugging Face Transformers ##
 ## 5. Databricks Dolly 2.0 ## 
 ## 6. Microsoft Azure - Well Architecture Framework ##
-
-## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
-If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
- 
-
