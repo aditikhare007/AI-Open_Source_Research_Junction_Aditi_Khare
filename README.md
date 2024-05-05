@@ -26,70 +26,46 @@
 | 5. **Interpret ML ** | ** InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems. InterpretML helps you understand your model's global behavior, or understand the reasons behind individual predictions..** |[Github](https://github.com/interpretml/interpret/) | Interpretable Machine Learning | 
 | 6. **PiML ** | ** PiML is a new Python toolbox for interpretable machine learning model development and validation. Through low-code interface and high-code APIs, PiML supports a growing list of inherently interpretable ML models.** |[Github](https://github.com/SelfExplainML/PiML-Toolbox/) |  MACHINE LEARNING | 
 | 7. **Flyle Kubernetes ** | ** This guide provides an overview of setting up the Kubernetes Operator backend plugin in your Flyte deployment.** |[Github](https://docs.flyte.org/en/latest/deployment/plugins/k8s/index.html/) |  KUBERNETES-PRODUCTION-GRADE DEPLOYMENTS | 
-| 8. **RunML ** | ** Demystifying MLOps and DataOps with RunML
-As MLOps becomes widespread across the globe due to its game-changing features, businesses are struggling to overcome some of the issues such as-One platform for different data/model pipeline,Build scalable and optimized workflows,Baked-in governance and security,Reducing cost to maintain multiple tools,RunML enables companies to healthify MLOps and DataOps through consistent monitoring and providing insightful analytics..** |[Github](https://runml.ai/) |  MODEL PIPELINES | 
-| 9. **BentoML - Unified AI Application Framework ** | ** Unified AI Application Framework
-With BentoML, you can easily build AI products with any pre-trained models, ship to production in minutes, and scale with confidence.** |[Github](https://www.bentoml.com/) |  MODEL PIPELINES | 
+| 8. **RunML ** | ** Demystifying MLOps and DataOps with RunML. As MLOps becomes widespread across the globe due to its game-changing features, businesses are struggling to overcome some of the issues such as-One platform for different data/model pipeline,Build scalable and optimized workflows,Baked-in governance and security,Reducing cost to maintain multiple tools,RunML enables companies to healthify MLOps and DataOps through consistent monitoring and providing insightful analytics..** |[Github](https://runml.ai/) |  MODEL PIPELINES | 
+| 9. **BentoML - Unified AI Application Framework ** | ** Unified AI Application Framework With BentoML, you can easily build AI products with any pre-trained models, ship to production in minutes, and scale with confidence.** |[Github](https://www.bentoml.com/) |  MODEL PIPELINES | 
 | 10. **Docker Swarm ** | ** Swarm mode is an advanced feature for managing a cluster of Docker daemons.Use Swarm mode if you intend to use Swarm as a production runtime environment.** |[Github](https://docs.docker.com/engine/swarm/swarm-tutorial/) |  DOCKER-CONTAINERS-PRODUCTION-GRADE DEPLOYMENTS | 
 | 11. **Kedro ** | ** Kedro is an open-source Python framework hosted by the Linux Foundation (LF AI & Data). Kedro uses software engineering best practices to help you build production-ready data science code.** | [Github](https://kedro.org/https://kedro.org/) |  PYTHON | 
 | 12. **Label Studio ** | ** The most flexible data labeling platform to fine-tune LLMs, prepare training data or validate AI models.** |[Github](https://labelstud.io/) |  KUBERNETES-PRODUCTION-GRADE DEPLOYMENTS | 
 | 13. **Imagen ** | ** Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding. Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation. Our key discovery is that generic large language models (e.g. T5), pretrained on text-only corpora, are surprisingly effective at encoding text for image synthesis: increasing the size of the language model in Imagen boosts both sample fidelity and image-text alignment much more than increasing the size of the image diffusion model. Imagen achieves a new state-of-the-art FID score of 7.27 on the COCO dataset, without ever training on COCO, and human raters find Imagen samples to be on par with the COCO data itself in image-text alignment. To assess text-to-image models in greater depth, we introduce DrawBench, a comprehensive and challenging benchmark for text-to-image models. With DrawBench, we compare Imagen with recent methods including VQ-GAN+CLIP, Latent Diffusion Models, and DALL-E 2, and find that human raters prefer Imagen over other models in side-by-side comparisons, both in terms of sample quality and image-text alignment.** |[Github](https://imagen.research.google/) |  GENERATIVE AI [LLMs] | 
-| 14. **Flyle Kubernetes ** | ** This guide provides an overview of setting up the Kubernetes Operator backend plugin in your Flyte deployment.** |[Github](https://docs.flyte.org/en/latest/deployment/plugins/k8s/index.html/) |  KUBERNETES-PRODUCTION-GRADE DEPLOYMENTS | 
-| 15. **Flyle Kubernetes ** | ** This guide provides an overview of setting up the Kubernetes Operator backend plugin in your Flyte deployment.** |[Github](https://docs.flyte.org/en/latest/deployment/plugins/k8s/index.html/) |  KUBERNETES-PRODUCTION-GRADE DEPLOYMENTS | 
+| 14. **PowerBI Python  ** | ** PowerBI Python.** |[Github](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-visuals/) |  POWER BI - BUSINESS INTELLIGENCE | 
+| 15. **Jupytab ** | ** Jupytab allows you to explore in Tableau data which is generated dynamically by a Jupyter Notebook. You can thus create Tableau data sources in a very flexible way using all the power of Python. This is achieved by having Tableau access data through a web server created by Jupytab.** |[Github](https://pypi.org/project/jupytab/) |  JUPYTER NOTEBOOK-TABLEAU | 
+| 15. **Lux - A Python API for Intelligent Visual Discover ** | ** Lux is a Python library that facilitate fast and easy data exploration by automating the visualization and data analysis process. By simply printing out a dataframe in a Jupyter notebook, Lux recommends a set of visualizations highlighting interesting trends and patterns in the dataset. Visualizations are displayed via an interactive widget that enables users to quickly browse through large collections of visualizations and make sense of their data.** |[Github](https://github.com/lux-org/lux/) | DATA VISUALIZATION-CONVERSIONAL AI | 
+| 15. **Apache Superset ** | ** Apache Superset is an open-source software application for data exploration and data visualization able to handle data at petabyte scale.** |[Github](https://superset.apache.org/) | BIG DATA ENGINEERING| 
+| 15. ** Bamboolib - GUI for Pandas ** | ** bamboolib is a GUI for pandas DataFrames that enables anyone to work with Python in Jupyter Notebook or JupyterLab.** |[Github](https://pypi.org/project/bamboolib/1.30.1/) | CONVERSIONAL AI | 
+| 15. **Arize-AI Observability & LLM Evaluation PlatforM ** | ** The AI Observability & LLM Evaluation Platform Monitor, troubleshoot, and evaluate your LLMs.** |[Github](https://arize.com/) | GENERATIVE AI | 
+| 15. **Data Robot-One Unified Platform for Generative and Predictive AI ** | ** Data Robot-One Unified Platform for Generative and Predictive AI.** |[Github](https://www.datarobot.com/) | GERNERATIVE AI PLATFORM | 
+| 15. **Galileo ** | ** A text-to-UI platform that empowers you to design beyond imagination with speed.** |[Github](https://www.usegalileo.ai/explore/) | AI PLATFORM | 
+
+
+|      **LIST OF COMPUTER VISION LIBRARIES **    | 
+|      --------------------------------------    | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
+|       **  OpenCV  **                           | 
 
 
 
 
 
 
-
-### Imagen - unprecedented photorealism × deep level of language understanding ###
-
-Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding. Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation. Our key discovery is that generic large language models (e.g. T5), pretrained on text-only corpora, are surprisingly effective at encoding text for image synthesis: increasing the size of the language model in Imagen boosts both sample fidelity and image-text alignment much more than increasing the size of the image diffusion model. Imagen achieves a new state-of-the-art FID score of 7.27 on the COCO dataset, without ever training on COCO, and human raters find Imagen samples to be on par with the COCO data itself in image-text alignment. To assess text-to-image models in greater depth, we introduce DrawBench, a comprehensive and challenging benchmark for text-to-image models. With DrawBench, we compare Imagen with recent methods including VQ-GAN+CLIP, Latent Diffusion Models, and DALL-E 2, and find that human raters prefer Imagen over other models in side-by-side comparisons, both in terms of sample quality and image-text alignment.
-
-https://imagen.research.google/
-
-### PowerBI Python ### 
-
-https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-visuals
-
-### Jupytab ### 
-
-Jupytab allows you to explore in Tableau data which is generated dynamically by a Jupyter Notebook. You can thus create Tableau data sources in a very flexible way using all the power of Python. This is achieved by having Tableau access data through a web server created by Jupytab.
-https://pypi.org/project/jupytab/
-
-### Lux - A Python API for Intelligent Visual Discovery ### 
-
-ux is a Python library that facilitate fast and easy data exploration by automating the visualization and data analysis process. By simply printing out a dataframe in a Jupyter notebook, Lux recommends a set of visualizations highlighting interesting trends and patterns in the dataset. Visualizations are displayed via an interactive widget that enables users to quickly browse through large collections of visualizations and make sense of their data.
-
-### Apache Superset ### 
-
-Apache Superset is an open-source software application for data exploration and data visualization able to handle data at petabyte scale. 
-
-https://superset.apache.org/
-
-### Bamboolib - GUI for Pandas ### 
-bamboolib is a GUI for pandas DataFrames that enables anyone to work with Python in Jupyter Notebook or JupyterLab.
-
-### Amazon CodeWhisperer ###
-
-Amazon CodeWhisperer generates code suggestions ranging from snippets to full functions in real time in the IDE based on your comments and existing code. It also supports CLI completions and natural-language-to-bash translation in the command line.
-
-### Arize - The AI Observability & LLM Evaluation Platform ### 
-
-Monitor, troubleshoot, and evaluate your
-https://arize.com/
-
-### Data Robot - One Unified Platform for Generative and Predictive AI ##
-https://www.datarobot.com/
-
-### Galileo - A text-to-UI platform that empowers you to design beyond imagination with speed ###
-
-### Superwise - https://superwise.ai/ ###
-
-# Computer Vision Libraries # 
-
-1. OpenCV
 2. SimpleCV
 3. TensorFlow
 4. Keras
