@@ -17,7 +17,7 @@
 
 ### Thank you so much for visting my Profile & Happy Reading ###
 
-## Open Source AI Research Scientist ##
+## ** Open Source AI Research Junction** ##
 
 |      **OPEN-SOURCE-AI**    |     **OPEN-SOURCE-AI-SUMMARIES**     |    **RESOURCE LINKS**   |    **OPEN-SOURCE-AI-CATEGORY** | 
 | --------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- | --------------------------------------------------------------------- | 
@@ -161,27 +161,27 @@ This stack has end to end ML systems to enable data processing, Model training, 
 5. InterpretML
 6. OMnixAI
 
-## Model Probability Direciation ## 
+### Model Probability Direciation ## 
 
-## Discreteise (bin) the probablities that our machine learning outputs. ##
+### Discreteise (bin) the probablities that our machine learning outputs. ###
 
-## MLFlow Pipeline is a really cool addition to MLFlow, letting terms are opinionated pipeline templates to quickly get new ML projects. ##
+### MLFlow Pipeline is a really cool addition to MLFlow, letting terms are opinionated pipeline templates to quickly get new ML projects. ##
 
-## Autotrain - Hugging Face - Create powerful AI Models without code - A new way to automatically train, evaluate & deploy state of the art machine learning models. ##
+### Autotrain - Hugging Face - Create powerful AI Models without code - A new way to automatically train, evaluate & deploy state of the art machine learning models. ##
 
-## Document AI - Fine Tunining Donut for document parsing using Hugging Face Transformers - Donut is a new OCR Framework. ##
+### Document AI - Fine Tunining Donut for document parsing using Hugging Face Transformers - Donut is a new OCR Framework. ##
 
-## Flux - Open and extensible continous delivery solutions for Kubernetes. Powdered by gitops toolkit. ##
+### Flux - Open and extensible continous delivery solutions for Kubernetes. Powdered by gitops toolkit. ##
 
-## NeatText is a library to clean text data. Preprocessing Tweets with NaetTexts Pipelines. ##
+### NeatText is a library to clean text data. Preprocessing Tweets with NaetTexts Pipelines. ##
 
-## Time Series Forecasting doumentation of tsfresh - is a python package it automatically calcualtes a large number of times series charachteristics. ##
+### Time Series Forecasting doumentation of tsfresh - is a python package it automatically calcualtes a large number of times series charachteristics. ##
 
-## Daft is a python dataframe library for unstructured data and Machine Learning worksloads. Meaning that a table can contain any kind of python object which can be processed by any package. ## 
+### Daft is a python dataframe library for unstructured data and Machine Learning worksloads. Meaning that a table can contain any kind of python object which can be processed by any package. ## 
 
-## Raster4ML - Provides easy to use functions that can automatically calculate features. ##
+### Raster4ML - Provides easy to use functions that can automatically calculate features. ##
 
-## Lens Deskstop - Open Lens Kubernetes tools to supercharge your kubernetes workflow ##
+### Lens Deskstop - Open Lens Kubernetes tools to supercharge your kubernetes workflow ##
 
 1. Minikube
 2. Kubebox
@@ -201,13 +201,13 @@ This stack has end to end ML systems to enable data processing, Model training, 
 16. Kubetail
 17. Kube-state-metrics.
 
-## Chatdoctor - A Medical Chat Medical Fine tunning on LLaMA model using Domain Knowledge. ##
+### Chatdoctor - A Medical Chat Medical Fine tunning on LLaMA model using Domain Knowledge. ###
 
-## LLM Tutorial ## 
+### LLM Tutorial ###
 
-## 1. Freecodecamp - ChatGPT. ##
-## 2. Fast.ai - Stable Diffusion ##
-## 3. Chip Huyen's Blog on LLMOPS. ##
-## 4. Hugging Face Transformers ##
-## 5. Databricks Dolly 2.0 ## 
-## 6. Microsoft Azure - Well Architecture Framework ##
+### 1. Freecodecamp - ChatGPT. ##
+### 2. Fast.ai - Stable Diffusion ##
+### 3. Chip Huyen's Blog on LLMOPS. ##
+### 4. Hugging Face Transformers ##
+### 5. Databricks Dolly 2.0 ## 
+### 6. Microsoft Azure - Well Architecture Framework ##
