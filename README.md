@@ -17,6 +17,14 @@
 
 ### Thank you so much for visting my Profile & Happy Reading ###
 
+|      ** Awesome AI Courses Links **    |    
+|      --------------------------------------    |   
+|       **  Freecodecamp - ChatGPT  **           | 
+|       **  Fast.ai - Stable Diffusion   **      |    
+|       **  Chip Huyen's Blog on LLMOPS  **      | 
+|       **   Databricks Dolly 2.0  **            | 
+|       **  Microsoft Azure - Well Architecture Framework  ** | 
+
 ## ** Open Source AI Research Junction** ##
 
 |      **OPEN-SOURCE-AI**    |     **OPEN-SOURCE-AI-SUMMARIES**     |    **RESOURCE LINKS**   |    **OPEN-SOURCE-AI-CATEGORY** | 
@@ -90,141 +98,37 @@
 |       **  Data Visualization - Superset, Tableau, Facet, Dash   **                    | 
 |       **  Feature Store - ButterFree, ByteHub, Feast, Tecton  **             | 
 |       **  Hyperparameter Tunning - Hyperas, Hyperopt, Kabit, KerasTurner, Optuna  ** | 
-|       **  Pinto Model Zo0  **                           | 
-|       **  ONNX Model Zoo  **                            | 
+|       **  Machine Learning Platform - Sagemaker, Kubflow, H2O, MLReef, Algorithms, DataRobot, DAGsHub.  **  | 
+|       **  Model Interprestablity - Alibi, Cptum, ELi5, InterpretML, Weight & Biases   **                    | 
+|       **  LIME, LUCID, SAGE, SHAP, Skaster.  **  | 
+|       **  Model Lifecycle - MLFlow, Netpune AI, Comet, Deepshake, Model DB, Weight & Baises   **            | 
+|       **  Model Serving - BentoML, Tensorflow Serving, KFServing, SeldonCore, Streamlit,TorchService, Gradio, Graphippie, Hydrosphereout.  **  | 
+|       **  Model Testing & Validation - Deepchecks    **                    | 
+|       **  Optimzation Tools - Dask, Deepspeed, Horovod, Tpot, Ray, Rapids.  **  | 
+|       **  Simplication Tools for ML - PyCaret, Herninioe, Hydra, Koalas, TuriCreate(apple), Train Generator.  **                    | 
+|       **  Visual Analysis and Debugugging - Aporia, Evidently AI, Yellowricks, Netron, Fiddler, Manifold.  **  | 
+|       **  Model Interprestablity - Alibi, Cptum, ELi5, InterpretML, Weight & Biases   **                    | 
+|       **  Machine Learning Platform - Sagemaker, Kubflow, H2O, MLReef, Algorithms, DataRobot, DAGsHub.  **  | 
+|       **  Model Interprestablity - Alibi, Cptum, ELi5, InterpretML, Weight & Biases   **                    | 
+|       **  Machine Learning Platform - Sagemaker, Kubflow, H2O, MLReef, Algorithms, DataRobot, DAGsHub.  **  | 
+|       **  WorkFlow Tools - MLRun, Flyte, MetaFlow, Ploomber, ZenML, Kedro   **                    | 
 
-# 20 Types of MLOPS Tools List 
+|      ** Lens Deskstop - Open Lens Kubernetes tools to supercharge your kubernetes workflow ** | 
+|      -----------------------------------------------    | 
+|       **  Minikube  **                                  | 
+|       **  Kubebox  **                                   | 
+|       **  Kops (K) Clusters  **                         | 
+|       **  Kube-burner  **                               | 
+|       **  Kube-Hunter  **                               |
+|       **  K9S. **                                       | 
+|       **  Helm  **                                      | 
+|       **  Nacos  **                                     | 
+|       **  Kaniko  **                                    | 
+|       **  Kube-money  **                                | 
+|       **  Teleport  **                                  | 
+|       **  Kubespray  **                                 | 
+|       **  kubebench  **                                 | 
+|       **  Kubetail  **                                  |
+|       **  Kube-state-metrics  **                        | 
 
-## 1. CICD for Machine Learning ##
-## 2. Cron Job Monitoring, healthChecksIO ##
-## 3. Data Exploration - Apache Zeppelni, Bamboolib, Google Colab ##
-## 4. Jupyter Notebook , Jupyter Lab ##
-## 5. Data Management - DVC Arkito Blazing SQL, Delta Lake, Dolt, DVC, GitLFS ##
-## 6. Data Processing - Airflow, Hadoop.
-## 7. Data Validation - Cerberms, Great Expectations.
-## 8. Fetaure Engineering - Feature Tools - TS Fresh ## 
-## 9. Data Visualization - Superset, Tableau, Facet, Dash ##
-## 10. Feature Store - ButterFree, ByteHub, Feast, Tecton ##
-## 11. Hyperparameter Tunning - Hyperas, Hyperopt, Kabit, KerasTurner, Optuna. ##
-## 12. Machine Learning Platform - Sagemaker, Kubflow, H2O, MLReef, Algorithms, DataRobot, DAGsHub. ##
-## 13. Model Interprestablity - Alibi, Cptum, ELi5, InterpretML, Weight & Biases ##
-## 14. LIME, LUCID, SAGE, SHAP, Skaster. ##
-## 15. Model Lifecycle - MLFlow, Netpune AI, Comet, Deepshake, Model DB, Weight & Baises ##
-## 16. Model Serving - BentoML, Tensorflow Serving, KFServing, SeldonCore, Streamlit,TorchService, Gradio, Graphippie, Hydrosphereout. ##
-## 17. Model Testing & Validation - Deepchecks ##
-## 18. Optimzation Tools - Dask, Deepspeed, Horovod, Tpot, Ray, Rapids.
-## 19. Simplication Tools for ML - PyCaret, Herninioe, Hydra, Koalas, TuriCreate(apple), Train Generator. ##
-## 20. Visual Analysis and Debugugging - Aporia, Evidently AI, Yellowricks, Netron, Fiddler, Manifold. ##
-## 21. WorkFlow Tools - MLRun, Flyte, MetaFlow, Ploomber, ZenML, Kedro. ##
 
-# Fraud Detection -
-
-1. Anamoly Detection - Isolation Forest, DBScan, Statistical Models - Bayseian Models.
-2. Novelty in Fraud Detection.
-3. Reinforecment Learning in Fraud Detection.
-
-## qLib by Microsoft - is a nice tool to experiment with quantitative investment using AI. 
-This stack has end to end ML systems to enable data processing, Model training, trend analysis via different data graphing mechanisms 
-& Model Testing to support all major components on investments - alpha, risk assessment, forecasting pattern analysis, portfolio optimzation etc.
-
-## Diffusers - Fully Open-Source Stable Diffusion was released, making image generation more accessible.
-
-## Edge AI - MLT (ML Tokyo) Group on Edge AI.
-
-## BLOOM - Text Generation Capabilities of Boom ## 
-
-## Mito - An International Spreadsheet inside python that write codes. Mito is an open-source python package that allows you to call an interactive spreadsheet into your environment. ##
-
-## TextHero - is a python toolkit to work with text data based datasets. ##
-
-## TextHero - is very simple to learn and designed is to used on top of Pandas. ##
-
-## TextHero Offers the Following ##
-
-1. Preprocess text data it offers out of the box solutions built it also flexible  for custom solutions.
-2. NLP Keyphrases and keyword extraction and named entity recognition.
-3. Text Representation - TF-IDF term frequently and custom word embeddings.
-4. Vector Space Analysis - Clustering - KMeans, Meanshift, DBScan and Hierarchical Topivc Modelling and Interprestation.
-5. Text Visualization - Vector Space Visualisation - Place on Localization on Maps.
-
-## Skit-ai Released an open-source dataset for Intent Classification from speech. ##
-
-## CoreML is Apple's softawre library for fast on device model interference with neural networks and other types of ML Models. ##
-
-## Core ML - CoreML exporter uses coreml tools to perform the conversion from PyTorch or TensorFlow to CoreML. ##
-
-## KerasTunner API ##
-
-## Hyperparameters - Tuner Class (Subclass) corresponding to different tuning algorithms are called directly by the user to start the search or get the best models. ##
-
-## The Hyper Model subclaases are predefined search spaces for certain model failures like ResNet and XceptionNet. ##
-
-## KerasNLP - Modular building box layers, metrics that NLP engineers can leverages to develop production-grade, state of the art training and inference pipelines for common NLP workflows. ##
-
-## KerasCV - Modular  building blocks layers, metrics, losses, data augumentation that computer vision engineers can leverage to quickly assemble production-grade state o the art pipeline.
-
-## JAX - is a python Framework library offering high performance ##
-
-## Stable Diffusion - Stable Diffusion is a text to image diffusion model. ##
-
-## You.com - is a developrer search engine to find code. ##
-
-## Top Explainable AI - (XAI) ##
-
-1. SHAP
-2. LIME
-3. SHAPASH
-4. ELI5
-5. InterpretML
-6. OMnixAI
-
-### Model Probability Direciation ## 
-
-### Discreteise (bin) the probablities that our machine learning outputs. ###
-
-### MLFlow Pipeline is a really cool addition to MLFlow, letting terms are opinionated pipeline templates to quickly get new ML projects. ##
-
-### Autotrain - Hugging Face - Create powerful AI Models without code - A new way to automatically train, evaluate & deploy state of the art machine learning models. ##
-
-### Document AI - Fine Tunining Donut for document parsing using Hugging Face Transformers - Donut is a new OCR Framework. ##
-
-### Flux - Open and extensible continous delivery solutions for Kubernetes. Powdered by gitops toolkit. ##
-
-### NeatText is a library to clean text data. Preprocessing Tweets with NaetTexts Pipelines. ##
-
-### Time Series Forecasting doumentation of tsfresh - is a python package it automatically calcualtes a large number of times series charachteristics. ##
-
-### Daft is a python dataframe library for unstructured data and Machine Learning worksloads. Meaning that a table can contain any kind of python object which can be processed by any package. ## 
-
-### Raster4ML - Provides easy to use functions that can automatically calculate features. ##
-
-### Lens Deskstop - Open Lens Kubernetes tools to supercharge your kubernetes workflow ##
-
-1. Minikube
-2. Kubebox
-3. Kops (K) Clusters
-4. Kube-burner
-5. Kube-Hunter
-6. K9S.
-7. K3S
-8. Helm
-9. Nacos
-10. Kaniko
-11. Kube-money.
-12. Teleport
-13. Kubespray
-14. kubebench
-15. Project Quay
-16. Kubetail
-17. Kube-state-metrics.
-
-### Chatdoctor - A Medical Chat Medical Fine tunning on LLaMA model using Domain Knowledge. ###
-
-### LLM Tutorial ###
-
-### 1. Freecodecamp - ChatGPT. ##
-### 2. Fast.ai - Stable Diffusion ##
-### 3. Chip Huyen's Blog on LLMOPS. ##
-### 4. Hugging Face Transformers ##
-### 5. Databricks Dolly 2.0 ## 
-### 6. Microsoft Azure - Well Architecture Framework ##
