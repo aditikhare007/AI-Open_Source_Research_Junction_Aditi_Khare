@@ -81,15 +81,15 @@
 |      **20 Types of MLOPS Tools List **                  | 
 |      -----------------------------------------------    | 
 |       **  CICD for Machine Learning  **                 | 
-|       **  OpenMode Zoo  **                              | 
-|       **  TensorFlow  **                                | 
-|       **  Keras  **                                     | 
-|       **  Matlab  **                                    |
-|       **  TensorFlow Hub **                             | 
-|       **  Media Pipe  **                                | 
-|       **  Awesome Core ML Models  **                    | 
-|       **  NVIDIA Performance Primitives  **             | 
-|       **  Jetson Zoo  **                                | 
+|       **  Cron Job Monitoring, healthChecksIO   **                              | 
+|       **  Data Exploration - Apache Zeppelni, Bamboolib, Google Colab  **       | 
+|       **  Jupyter Notebook , Jupyter Lab  **                                    | 
+|       **  Data Management - DVC Arkito Blazing SQL, Delta Lake, Dolt, DVC, GitLFS  ** |
+|       **  Data Validation - Cerberms, Great Expectations **                           | 
+|       **  Fetaure Engineering - Feature Tools - TS Fresh  **                          | 
+|       **  Data Visualization - Superset, Tableau, Facet, Dash   **                    | 
+|       **  Feature Store - ButterFree, ByteHub, Feast, Tecton  **             | 
+|       **  Hyperparameter Tunning - Hyperas, Hyperopt, Kabit, KerasTurner, Optuna  ** | 
 |       **  Pinto Model Zo0  **                           | 
 |       **  ONNX Model Zoo  **                            | 
 
@@ -98,7 +98,7 @@
 ## 1. CICD for Machine Learning ##
 ## 2. Cron Job Monitoring, healthChecksIO ##
 ## 3. Data Exploration - Apache Zeppelni, Bamboolib, Google Colab ##
-## 4. Jupyter Notebook , Hupyter Lab ##
+## 4. Jupyter Notebook , Jupyter Lab ##
 ## 5. Data Management - DVC Arkito Blazing SQL, Delta Lake, Dolt, DVC, GitLFS ##
 ## 6. Data Processing - Airflow, Hadoop.
 ## 7. Data Validation - Cerberms, Great Expectations.
