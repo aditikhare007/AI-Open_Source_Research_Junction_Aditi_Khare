@@ -44,10 +44,10 @@
 | 15. **Galileo ** | ** A text-to-UI platform that empowers you to design beyond imagination with speed.** |[Github](https://www.usegalileo.ai/explore/) | AI PLATFORM | 
 
 
-|      **LIST OF COMPUTER VISION LIBRARIES **    |    **REFERENCE LINKS **    | 
-|      --------------------------------------    |    | --------------------------------------  |     
-|       **  OpenCV  **                           |    |  [Github](/)
-|       **  SimpleCV  **                         |    |
+|      **LIST OF COMPUTER VISION LIBRARIES **    |    
+|      --------------------------------------    |   
+|       **  OpenCV  **                           | 
+|       **  SimpleCV  **                         |    
 |       **  TensorFlow  **                       | 
 |       **  Keras  **                            | 
 |       **  Matlab  **                           | 
@@ -63,11 +63,24 @@
 |       **  Detectorn2  **                       | 
 |       **  Imtutils  **                         | 
 
-
-
 |      **Top 10 Resources for Computer Vision AI Models** | 
 |      -----------------------------------------------    | 
 |       **  Papers with Code  **                          | 
+|       **  OpenMode Zoo  **                              | 
+|       **  TensorFlow  **                                | 
+|       **  Keras  **                                     | 
+|       **  Matlab  **                                    |
+|       **  TensorFlow Hub **                             | 
+|       **  Media Pipe  **                                | 
+|       **  Awesome Core ML Models  **                    | 
+|       **  NVIDIA Performance Primitives  **             | 
+|       **  Jetson Zoo  **                                | 
+|       **  Pinto Model Zo0  **                           | 
+|       **  ONNX Model Zoo  **                            | 
+
+|      **20 Types of MLOPS Tools List **                  | 
+|      -----------------------------------------------    | 
+|       **  CICD for Machine Learning  **                 | 
 |       **  OpenMode Zoo  **                              | 
 |       **  TensorFlow  **                                | 
 |       **  Keras  **                                     | 
