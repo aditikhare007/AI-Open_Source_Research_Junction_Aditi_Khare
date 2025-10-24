@@ -11,7 +11,7 @@
 
 ** Global Top AI Community Member @Landing.AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @humaneai @H2o.ai Generative AI, @Modular & @Cohere AI @hugging Face Research Papers Group @Papers with Code @DAIR.AI ** ** Completed 90+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
 
-## ** Aditi_Khare_AI_Open_Source_Research_Junction ** ##
+## ** Aditi_Khare_AI_Open_Source_Learning Resources ** ##
 
 <a href="https://github.com/aditikhare007/Aditi_Open_Source_AI_Libraries_Portfolio" class="button icon search"> ** Aditi Open-Source AI Libraries Portfolio** </a> 
 
@@ -24,6 +24,7 @@
 |       **  Chip Huyen's Blog on LLMOPS  **      | 
 |       **   Databricks Dolly 2.0  **            | 
 |       **  Microsoft Azure - Well Architecture Framework  ** | 
+|       **  Meta AI  ** | 
 
 ## ** Open Source AI Research Junction** ##
 
